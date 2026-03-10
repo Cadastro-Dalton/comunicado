@@ -1,10 +1,21 @@
 <rss version="2.0">
   <channel>
-    <title>Atenção !!!</title>
+    <title>Avisos TI</title>
+    <description>Feed de teste para o Lobby do IFS</description>
+    <link>https://empresa.com</link>
 
     <item>
-      <title>Feriado</title>
-      <description>Dia 3 de abril é feriado nacional, será em uma sexta feira, se progreme para tal evento</description>
+      <title>Teste de Aviso 1</title>
+      <description>Este é um parágrafo de teste para o RSS do Lobby.</description>
+      <link>https://empresa.com/teste1</link>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Teste de Aviso 2</title>
+      <description>Segundo aviso para testar feed RSS.</description>
+      <link>https://empresa.com/teste2</link>
+      <pubDate>Tue, 10 Mar 2026 12:00:00 GMT</pubDate>
     </item>
 
   </channel>
